@@ -18,7 +18,7 @@ Academies tend to share content with their students and the outside world via gr
 * Next.js - React framework that support SSR, used for our landing page
 
 
-Demo
-www.myjiujitsuacademy.com
-www.nextcloud.myjiujitsuacademy.com
+Demo <br/>
+www.myjiujitsuacademy.com <br/>
+www.nextcloud.myjiujitsuacademy.com <br/>
 
