@@ -13,11 +13,12 @@ Academies tend to share content with their students and the outside world via gr
 * Support teams maintain their media content and social media sharing using what we call an "Academy first content sharing" approach as we call it. This means that we have a central storage of media content, which we can also share at any time with our students, the world or the social media.
 
 ### Technology stack
-* Kubernetes - Great to achieve adaptability and scalability
+* k3s single node production ready Kubernetes cluster - Great to achieve scalability while having a cheap solution
 * Nextcloud - Great for communities and teams to manage documents and media files
 * Next.js - React framework that support SSR, used for our landing page
 
-You may ask yourself why are we using kubernetes and how can this solution be cheap? With Kubernetes we achieve adaptability and scalability. Furthermore,
-we are using K3S which is a custom lightweight production ready kubernetes destribution, which we have installed in a cheap VPS.
 
+Demo
 www.myjiujitsuacademy.com
+www.nextcloud.myjiujitsuacademy.com
+
